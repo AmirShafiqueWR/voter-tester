@@ -1,0 +1,20 @@
+{
+  "name": "aswr-voter-tester",
+  "version": "1.0.1",
+  "description": "This Program - Take the user age.   -- If the age is 18 or above:   -- Ask if they have a nationality of \"Pakistani\".     ---If yes, print \"You are eligible to vote.\"     ---If no, print \"Please obtain a valid ID to vote.\"",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
